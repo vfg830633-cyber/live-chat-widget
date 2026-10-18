@@ -14,13 +14,13 @@ binding = "AI"
 
 [[kv_namespaces]]
 binding = "SYSTEM_PROMPT"
-id = "c5b17d99100540cab8837900b61d9c76"
+id = "ab28656919ca4864a098646d948e78c1"
 
 [[kv_namespaces]]
 binding = "RATE_LIMITER_KV"
-id = "ee0fab0ae1f849fea9dcb3163f7675cb"
+id = "ab28656919ca4864a098646d948e78c1"
 
 [[kv_namespaces]]
 binding = "RESPONSE_CACHE_KV"
 preview_id = "cache-preview-1234"
-id = "3373297a3061410a8e2da48c59128d39"
+id = "ab28656919ca4864a098646d948e78c1"
