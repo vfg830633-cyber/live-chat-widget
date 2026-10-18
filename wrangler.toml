@@ -18,7 +18,7 @@ id = "c5b17d99100540cab8837900b61d9c76"
 
 [[kv_namespaces]]
 binding = "RATE_LIMITER_KV"
-id = "efe51f08b6734a86bb39c71b10cf0da4"
+id = "ee0fab0ae1f849fea9dcb3163f7675cb"
 
 [[kv_namespaces]]
 binding = "RESPONSE_CACHE_KV"
